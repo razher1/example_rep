@@ -1,2 +1,6 @@
-this is my new example file
-i want to see if it work.
+#include <stdio.h>
+
+int main()
+{
+	print("Hello World!\n")
+}
